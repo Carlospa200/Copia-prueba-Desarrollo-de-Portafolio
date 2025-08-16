@@ -4,7 +4,7 @@ body {
 
 
 #Hero-Section {
-    background-image: url(/assets/img/mano-punta-del-este.jpg);
+    background-image: url(../img/mano-punta-del-este.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: left;
